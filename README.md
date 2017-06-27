@@ -1,2 +1,2 @@
-# Tensorflow_Scratch
-tensorflowを使ってScratchでかいてみよう！
+# CIFAR-10 Scratch
+これが噂のCIFAR-10ヅラ
